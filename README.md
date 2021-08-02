@@ -1,2 +1,2 @@
-# PSP-Scratch-
+# PSP-Scratch
 Scratch
